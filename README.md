@@ -1,4 +1,4 @@
-# steampunk_YARD_stick_One
+# Steampunk YARD Stick One case
 [AKA: Raveled Monochrome Pollard] A custom 3D-printed commission for a cybersecurity and data privacy engineer.
 
 Inspired by French Art Nouveau and Art Deco posters and the Fallout Universe by Bethesda Game Studios. Find out more at https://fallout.bethesda.net/
